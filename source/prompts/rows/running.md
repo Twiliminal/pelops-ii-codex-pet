@@ -1,4 +1,4 @@
-Create a single horizontal sprite strip for the Codex app digital pet `pelo` in the state `running`.
+Create a single horizontal sprite strip for the Codex app digital pet `pelops-ii` in the state `running`.
 
 Use the attached reference image(s) for pet identity and the attached base pet image as the canonical design. Use the attached layout guide image only for frame count, slot spacing, centering, and safe padding. Simplify any high-resolution reference details into the Codex digital pet sprite style. Do not simply copy the still reference pose. Generate distinct animation poses that create a readable cycle.
 
@@ -19,7 +19,7 @@ Animation action: thoughtful in-place thinking loop based on the newest user-pro
 
 
 State-specific requirements:
-- Use the newest attached thinking reference image as the target pose and mood while preserving the canonical Pelo design.
+- Use the newest attached thinking reference image as the target pose and mood while preserving the canonical Pelops II design.
 - Make 6 distinct but subtle thinking frames: neutral thought pose, paw touches chin, tiny head tilt, small foot shift, hands/feet settle, return toward the first pose.
 - It may include hand and foot movement, but keep the body mostly in place.
 - Do not add question marks, light bulbs, papers, code, UI, speech bubbles, thought bubbles, floating icons, text, speed lines, dust clouds, floor shadows, motion trails, or detached effects.

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames",
+  "frames_root": "source-run/frames",
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,7 +15,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/idle/00.png",
+          "file": "source-run/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20878,
@@ -30,7 +30,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/idle/01.png",
+          "file": "source-run/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18614,
@@ -45,7 +45,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/idle/02.png",
+          "file": "source-run/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20773,
@@ -60,7 +60,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/idle/03.png",
+          "file": "source-run/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20793,
@@ -75,7 +75,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/idle/04.png",
+          "file": "source-run/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18239,
@@ -90,7 +90,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/idle/05.png",
+          "file": "source-run/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20564,
@@ -116,7 +116,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-right/00.png",
+          "file": "source-run/frames/running-right/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 25914,
@@ -131,7 +131,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-right/01.png",
+          "file": "source-run/frames/running-right/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23265,
@@ -146,7 +146,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-right/02.png",
+          "file": "source-run/frames/running-right/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20340,
@@ -161,7 +161,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-right/03.png",
+          "file": "source-run/frames/running-right/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26465,
@@ -176,7 +176,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-right/04.png",
+          "file": "source-run/frames/running-right/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 25797,
@@ -191,7 +191,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-right/05.png",
+          "file": "source-run/frames/running-right/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21975,
@@ -206,7 +206,7 @@
         },
         {
           "index": 6,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-right/06.png",
+          "file": "source-run/frames/running-right/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19586,
@@ -221,7 +221,7 @@
         },
         {
           "index": 7,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-right/07.png",
+          "file": "source-run/frames/running-right/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26489,
@@ -247,7 +247,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-left/00.png",
+          "file": "source-run/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19840,
@@ -262,7 +262,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-left/01.png",
+          "file": "source-run/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20259,
@@ -277,7 +277,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-left/02.png",
+          "file": "source-run/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19903,
@@ -292,7 +292,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-left/03.png",
+          "file": "source-run/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19777,
@@ -307,7 +307,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-left/04.png",
+          "file": "source-run/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21682,
@@ -322,7 +322,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-left/05.png",
+          "file": "source-run/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20287,
@@ -337,7 +337,7 @@
         },
         {
           "index": 6,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-left/06.png",
+          "file": "source-run/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20201,
@@ -352,7 +352,7 @@
         },
         {
           "index": 7,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running-left/07.png",
+          "file": "source-run/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19681,
@@ -378,7 +378,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waving/00.png",
+          "file": "source-run/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21590,
@@ -393,7 +393,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waving/01.png",
+          "file": "source-run/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 29852,
@@ -408,7 +408,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waving/02.png",
+          "file": "source-run/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 24876,
@@ -423,7 +423,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waving/03.png",
+          "file": "source-run/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21602,
@@ -449,7 +449,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/jumping/00.png",
+          "file": "source-run/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20652,
@@ -464,7 +464,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/jumping/01.png",
+          "file": "source-run/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18609,
@@ -479,7 +479,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/jumping/02.png",
+          "file": "source-run/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18336,
@@ -494,7 +494,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/jumping/03.png",
+          "file": "source-run/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18154,
@@ -509,7 +509,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/jumping/04.png",
+          "file": "source-run/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20416,
@@ -535,7 +535,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/failed/00.png",
+          "file": "source-run/frames/failed/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22801,
@@ -550,7 +550,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/failed/01.png",
+          "file": "source-run/frames/failed/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 24340,
@@ -565,7 +565,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/failed/02.png",
+          "file": "source-run/frames/failed/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 28031,
@@ -580,7 +580,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/failed/03.png",
+          "file": "source-run/frames/failed/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 28081,
@@ -595,7 +595,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/failed/04.png",
+          "file": "source-run/frames/failed/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15659,
@@ -610,7 +610,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/failed/05.png",
+          "file": "source-run/frames/failed/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26718,
@@ -625,7 +625,7 @@
         },
         {
           "index": 6,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/failed/06.png",
+          "file": "source-run/frames/failed/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 27764,
@@ -640,7 +640,7 @@
         },
         {
           "index": 7,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/failed/07.png",
+          "file": "source-run/frames/failed/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22780,
@@ -666,7 +666,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waiting/00.png",
+          "file": "source-run/frames/waiting/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20702,
@@ -681,7 +681,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waiting/01.png",
+          "file": "source-run/frames/waiting/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23499,
@@ -696,7 +696,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waiting/02.png",
+          "file": "source-run/frames/waiting/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19362,
@@ -711,7 +711,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waiting/03.png",
+          "file": "source-run/frames/waiting/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20050,
@@ -726,7 +726,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waiting/04.png",
+          "file": "source-run/frames/waiting/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19332,
@@ -741,7 +741,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/waiting/05.png",
+          "file": "source-run/frames/waiting/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19872,
@@ -767,7 +767,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running/00.png",
+          "file": "source-run/frames/running/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18166,
@@ -782,7 +782,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running/01.png",
+          "file": "source-run/frames/running/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18138,
@@ -797,7 +797,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running/02.png",
+          "file": "source-run/frames/running/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17944,
@@ -812,7 +812,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running/03.png",
+          "file": "source-run/frames/running/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18252,
@@ -827,7 +827,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running/04.png",
+          "file": "source-run/frames/running/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17899,
@@ -842,7 +842,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/running/05.png",
+          "file": "source-run/frames/running/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18082,
@@ -868,7 +868,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/review/00.png",
+          "file": "source-run/frames/review/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21005,
@@ -883,7 +883,7 @@
         },
         {
           "index": 1,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/review/01.png",
+          "file": "source-run/frames/review/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22545,
@@ -898,7 +898,7 @@
         },
         {
           "index": 2,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/review/02.png",
+          "file": "source-run/frames/review/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17777,
@@ -913,7 +913,7 @@
         },
         {
           "index": 3,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/review/03.png",
+          "file": "source-run/frames/review/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22214,
@@ -928,7 +928,7 @@
         },
         {
           "index": 4,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/review/04.png",
+          "file": "source-run/frames/review/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21249,
@@ -943,7 +943,7 @@
         },
         {
           "index": 5,
-          "file": "/Users/twiliminal/Documents/Codex/2026-05-04/files-mentioned-by-the-user-png/pelo-pet-run/frames/review/05.png",
+          "file": "source-run/frames/review/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20990,

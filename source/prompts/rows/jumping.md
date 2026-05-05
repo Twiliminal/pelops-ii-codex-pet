@@ -1,4 +1,4 @@
-Create a single horizontal sprite strip for the Codex app digital pet `pelo` in the state `jumping`.
+Create a single horizontal sprite strip for the Codex app digital pet `pelops-ii` in the state `jumping`.
 
 Use the attached reference image(s) for pet identity and the attached base pet image as the canonical design. Use the attached layout guide image only for frame count, slot spacing, centering, and safe padding. Simplify any high-resolution reference details into the Codex digital pet sprite style. Do not simply copy the still reference pose. Generate distinct animation poses that create a readable cycle.
 
@@ -19,7 +19,7 @@ Animation action: mouse-hover reaction using the standard action from `动态.pn
 
 
 State-specific requirements:
-- Use `动态.png` / reference-02 as the exact target action while preserving the canonical Pelo design.
+- Use `动态.png` / reference-02 as the exact target action while preserving the canonical Pelops II design.
 - The standard pose must be based on the previous generated strip's second frame angle, not the third/fourth frame pose: diagonal head/body tilt, wink, one leg lifted.
 - In that standard pose, the viewer-left paw must also lift outward/upward; it must not hang straight down. The viewer-right paw remains raised high near the head.
 - Suggested 5-frame cycle: neutral setup, exact standard `动态.png` pose, same standard pose held with a tiny 1-2 px shake, same standard pose held with a tiny opposite 1-2 px shake, return toward neutral.

@@ -1,4 +1,4 @@
-Create a single horizontal sprite strip for the Codex app digital pet `pelo` in the state `waving`.
+Create a single horizontal sprite strip for the Codex app digital pet `pelops-ii` in the state `waving`.
 
 Use the attached reference image(s) for pet identity and the attached base pet image as the canonical design. Use the attached layout guide image only for frame count, slot spacing, centering, and safe padding. Simplify any high-resolution reference details into the Codex digital pet sprite style. Do not simply copy the still reference pose. Generate distinct animation poses that create a readable cycle.
 
