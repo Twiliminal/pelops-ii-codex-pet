@@ -1,6 +1,6 @@
 # ペロ２ / Pelops II Codex Pet
 
-中文 | 这是一个 Codex Pet 自定义动画宠物包。角色灵感来自《ゴジラ S.P ＜シンギュラポイント＞ / Godzilla Singular Point》里的ペロ２（ペロツー）/ Pelops II。官方角色介绍中，佩罗2是从沟通支援 AI “ナラタケ”诞生、住在神野铭电脑里的可爱犬型人工智能，并作为铭的伙伴协助她行动。这个自定义版本把佩罗2做成橙色 Q 版柴犬风格，包含蓝色眼睛、骨头项圈、蓝色花纹布、眨眼待机、悬浮动作、跑动和思考动作。
+中文 | 这是一个 Codex Pet 自定义动画宠物包。角色来自《ゴジラ S.P ＜シンギュラポイント＞ / Godzilla Singular Point》里的ペロ２（ペロツー）/ Pelops II。官方角色介绍中，佩罗2是从沟通支援 AI “ナラタケ”诞生、住在神野铭电脑里的可爱犬型人工智能，并作为铭的伙伴协助她行动。这个自定义版本把佩罗2做成橙色 Q 版柴犬风格，包含蓝色眼睛、骨头项圈、蓝色花纹布、眨眼待机、悬浮动作、跑动和思考动作。
 
 English | This is a Codex Pet custom animated pet package inspired by ペロ２ / Pelops II from *Godzilla Singular Point*. In the official character description, Pelops II is a cute dog-shaped artificial intelligence born from the communication-support AI “Naratake,” living in Mei Kamino's PC and supporting her as a companion. This custom version reimagines Pelops II as an orange chibi shiba-style Codex-compatible animated pet with cyan eyes, a bone collar, a blue patterned cloth, blinking idle frames, hover motion, running, and thinking animations.
 
